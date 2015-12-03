@@ -1,7 +1,7 @@
 name: 5thgene.net
 favicon: null
-layout_spectrum: 0.49515
-typography_spectrum: 0.2692
+layout_spectrum: 0.8110829889774323
+typography_spectrum: 0.020283523248508573
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.875
+  brandStrength: 0.7830656643491238
   lightness: 0.6881172491703182
   saturation: 0.05877816933207214
   rhythmicContrast: 0.22135137277655303
