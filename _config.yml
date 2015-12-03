@@ -1,0 +1,28 @@
+name: 5thgene.net
+favicon: null
+layout_spectrum: 0.49515
+typography_spectrum: 0.2692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.875
+  lightness: 0.6881172491703182
+  saturation: 0.05877816933207214
+  rhythmicContrast: 0.22135137277655303
+purpose: []
